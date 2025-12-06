@@ -10,9 +10,7 @@ An interactive, educational web-based simulation designed to teach children basi
 
 ### **1. Car Movement Simulation**
 
-* A car moves from left to right across the screen.
-* Speed changes based on quiz answers.
-* Car stops at traffic lights and school zones.
+
 
 ### **2. Traffic Light System**
 
