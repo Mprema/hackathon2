@@ -41,9 +41,9 @@ An interactive, educational web-based simulation designed to teach children basi
 * **JavaScript**
   # Project Outcomes
   ![WhatsApp Image 2025-12-07 at 12 17 25 PM - Copy](https://github.com/user-attachments/assets/3cbfc917-1b03-444a-8d6c-24f8d27dad03)<br>
-  ![WhatsApp Image 2025-12-07 at 12 17 25 PM](https://github.com/user-attachments/assets/bf6df680-41f8-4465-87f7-c4af457cccbb)<br>
-  ![WhatsApp Image 2025-12-07 at 12 17 58 PM (1) - Copy](https://github.com/user-attachments/assets/66554d34-8b42-4f3e-93e6-ce2db3b905bc)<br>
-  ![WhatsApp Image 2025-12-07 at 12 17 58 PM (1)](https://github.com/user-attachments/assets/f3a48d56-8225-4c4a-b1d2-2489051ff350)
+  ![WhatsApp Image 2025-12-07 at 12 17 58 PM](https://github.com/user-attachments/assets/52d628ef-b987-4782-9eec-4da8c9aa6ea2)<br>
+  ![WhatsApp Image 2025-12-07 at 12 17 58 PM (2)](https://github.com/user-attachments/assets/4800d126-fcb7-4452-b356-92ec3eff5a9d)<br>
+
 
 
 
